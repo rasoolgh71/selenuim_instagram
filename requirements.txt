@@ -1,5 +1,5 @@
 bs4==0.0.1
-Django==2.1.4
+Django==2.2.24
 Pillow==5.2.0
 requests==2.21.0
 selenium==3.141.0
